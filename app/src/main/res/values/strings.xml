@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Cosmetic</string>
+    <string name="lip1Detail">
+        Product Name: HOLD LIVE 501\n
+        Color: Tea Brown\n\n
+        Product Name: HOLD LIVE 502\n
+        Color: Maple Leaf\n\n
+        Product Name: HOLD LIVE 503\n
+        Color: Tomato Leaf\n\n
+        Product Name: HOLD LIVE 504\n
+        Color: Fancy Ruby\n\n
+        Product Name: HOLD LIVE 505\n
+        Color: Choco Jam\n\n
+        Benefit of product :\n
+        - Rich and Pigmented\n
+        - Long-lasting\n
+        - Lightweight
+    </string>
+    <string name="eye">Eyes</string>
+    <string name="lip">Lips</string>
+    <string name="foundation">Foundation</string>
+    <string name="eye1Detail">
+        Perfect Diary x British Museum\n
+        *Fantasias Eye Shadow Palette*\n\n
+
+        1. Cupid of Love \n
+        2. Maria \n\n
+
+        Buy now at official website : www.perfectdiary.com\n
+        at $ 49.40.
+
+    </string>
+</resources>
